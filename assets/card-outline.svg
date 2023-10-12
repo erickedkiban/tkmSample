@@ -1,0 +1,11 @@
+<svg width="27" height="24" viewBox="0 0 27 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="card-outline" clip-path="url(#clip0_240_221)">
+<path id="Vector" d="M22.5875 3.86011H5.25528C3.49195 3.86011 2.0625 5.37232 2.0625 7.23773V19.7832C2.0625 21.6486 3.49195 23.1608 5.25528 23.1608H22.5875C24.3508 23.1608 25.7803 21.6486 25.7803 19.7832V7.23773C25.7803 5.37232 24.3508 3.86011 22.5875 3.86011Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M2.51367 8.6853H24.2979M6.70295 13.5708H9.21652V14.4755H6.70295V13.5708Z" stroke="black" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_240_221">
+<rect width="26.8114" height="23.1608" fill="white"/>
+</clipPath>
+</defs>
+</svg>
